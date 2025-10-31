@@ -1,3 +1,8 @@
 hello word 
+<<<<<<< HEAD
 xin chao nguyen minh chanh 
 xin chao ho cong danh 
+=======
+xin chao ho cong danh 
+xin chao nguyen minh chanh 
+>>>>>>> 4b51b7cfd451fdb28b321e75a2c7053e7efbe267
